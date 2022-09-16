@@ -1,7 +1,6 @@
 ## 안녕하십니까 👋
 제 이름은 __천세빈__ 입니다.
-!<https://github.com/imsbchun/imsbchun/blob/main/KakaoTalk_20220916_135936900.jpg>
-
+![사진](https://github.com/imsbchun/imsbchun/blob/main/KakaoTalk_20220916_135936900.jpg)
 
 **imsbchun/imsbchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
