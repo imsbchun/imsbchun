@@ -12,6 +12,10 @@
 > __단체 경력__
   - 광운대학교 전기공학과 학생회 (2018 ~ 2019)
   - 광운대학교 풍물패 연합 (2018 ~ 2022)
+> __직무 경력__
+  - 미달성(채울 항목) : 취업 전 진로 관련업무 인턴 신청 예정입니다.
+> __수상 경력__
+  - 미달성(채울 항목) : 4학년 1학기 캡스톤 설계를 바탕으로 보완하여 입상을 목표로 공모전을 신청할 예정입니다.
 
 
 **imsbchun/imsbchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
