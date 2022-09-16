@@ -10,7 +10,7 @@
 - 광운대학교 전기공학과 3학년 재학 (2018.03 ~)
 ## 💼 경력
 - 단체 경력
->
+> 가나다라
 
 
 **imsbchun/imsbchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
