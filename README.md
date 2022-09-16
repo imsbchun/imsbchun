@@ -7,7 +7,7 @@
 
 ---
 ## 👨‍🎓 학력
-  가나다
+- 가나다
 
 
 **imsbchun/imsbchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
