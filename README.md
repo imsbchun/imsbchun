@@ -23,20 +23,10 @@ Hi, my name is 'Chun sevin'. Nice to meet you.
   - 영어 : 오픽 IH
   - 정보처리산업기사(채울 항목)
 ## 🔬프로젝트
-  - 배터리 잔량 표시기 (2019)
-    :알카라인 건전지 잔량을 마이크로컨트롤러와 일반회로 두 방법으로 제작
-
-
-**imsbchun/imsbchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+  - 배터리 잔량 표시기 (2019) \
+    :알카라인 건전지 잔량 표시기를 마이크로컨트롤러와 일반회로 두 방법으로 제작
+  - 배터리 충전기 (2021) \
+    :리튬 이온 배터리를 고속으로 충전함과 동시에 충전전류, 잔량을 출력하는 배터리 충전기 제작
+  - 주파수 대역 별 오디오 레벨미터 (2022)
+    :아날로그 음성신호 혹은 블루투스 디지털 신호를 입력받아 스피커로 출력 및 필터를 통해 주파수 대역별 분리 후 음량 크기 표시
+  - 캡스톤 설계(채울 항목)
