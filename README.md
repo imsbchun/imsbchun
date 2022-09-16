@@ -6,8 +6,11 @@
 <img src="https://github.com/imsbchun/imsbchun/blob/main/KakaoTalk_20220916_135936900.jpg" width="200" height="270"/>
 
 ---
-## 👨‍🎓 학력
-- 가나다
+## 👨‍🎓 최종 학력
+- 광운대학교 전기공학과 3학년 재학 (2018.03 ~)
+## 💼 경력
+- 단체 경력
+>
 
 
 **imsbchun/imsbchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
