@@ -1,5 +1,5 @@
 # 안녕하십니까 👋
-## 제 이름은 '천세빈' 입니다.
+### 제 이름은 '천세빈' 입니다.
 
 ---
 
@@ -7,6 +7,7 @@
 
 ---
 ## 👨‍🎓 학력
+  ㅇ마ㅓ린ㅇㄴㅁㄹ
 
 
 **imsbchun/imsbchun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
